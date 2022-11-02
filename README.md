@@ -1,6 +1,6 @@
 
 ## Spatial-interaction Aware Multi-Category deep neural Network (SAMCNet)
-We propose  Spatial-interaction Aware Multi-Category deep neural Network (SAMCNet) [SAMCNet](https://github.com/majid-farhadloo/SAMCNet) with novel desing of lcoal reference frame characterization and point pair prioritization layers for multi-categorical point patterns classification. 
+We propose  Spatial-interaction Aware Multi-Category deep neural Network (SAMCNet) with novel desing of lcoal reference frame characterization and point pair prioritization layers for multi-categorical point patterns classification. 
 
 ## Overview
 We proposes a novel neural network architecture, namely SAMCNet, to identify N-way (e.g., ter-tiary, ternary, etc.) spatial relationships.
