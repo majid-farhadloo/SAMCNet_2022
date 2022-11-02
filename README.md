@@ -63,4 +63,4 @@ entire_model --> default setting
 
 
 ## Citation
-Farhadloo, Majid, et al. " https://dl.acm.org/doi/abs/10.1145/3534678.3539168?casa_token=PRHAgxqViCkAAAAA:1c64Ra3TeQ5AKm7qVYRr5UGYyhK_wzEf1XL3ZQfJTCmXcxdk_uHhbYXmfOH-rfia97SussipfqU [SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data]."Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022.
+Farhadloo M, Molnar C, Luo G, Li Y, Shekhar S, Maus RL, Markovic S, Leontovich A, Moore R. #SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data. InProceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022 Aug 14 (pp. 2860-2870).
