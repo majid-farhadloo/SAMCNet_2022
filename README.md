@@ -15,7 +15,7 @@ The classification experiments in our paper are done with the pytorch implementa
 
 
 ## Acknowledgement
-The structure of this codebase is borrowed from [DGCNN] (https://github.com/WangYueFt/dgcnn)
+The structure of this codebase is borrowed from [DGCNN](https://github.com/WangYueFt/dgcnn)
 
 
 ## Instructions
