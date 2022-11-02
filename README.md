@@ -63,10 +63,10 @@ entire_model --> default setting
 
 
 ## Citation
-Please cite this paper if you want to use it in your work,
+Please cite this [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539168?casa_token=_NaMw5WET6QAAAAA:uzW72DX4gxaqiwqP80FwHeuKr6jWfLPlPoz1vHsRVT-OqPFVb7eM8OP0_oBXCKYGhj5eol8AZew) if you want to use it in your work,
 
     @inproceedings{farhadloo2022samcnet,
-      title={[SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data](https://dl.acm.org/doi/abs/10.1145/3534678.3539168?casa_token=_NaMw5WET6QAAAAA:uzW72DX4gxaqiwqP80FwHeuKr6jWfLPlPoz1vHsRVT-OqPFVb7eM8OP0_oBXCKYGhj5eol8AZew)},
+      title={SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data},
       author={Farhadloo, Majid and Molnar, Carl and Luo, Gaoxiang and Li, Yan and Shekhar, Shashi and Maus, Rachel L and Markovic, Svetomir and Leontovich, Alexey and Moore, Raymond},
       booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
       pages={2860--2870},
