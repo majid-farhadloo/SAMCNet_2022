@@ -61,3 +61,6 @@ entire_model --> default setting
 
 --eval =True for feature extraction
 
+
+## Citation
+Farhadloo, Majid, et al. "[SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data] (https://dl.acm.org/doi/abs/10.1145/3534678.3539168?casa_token=PRHAgxqViCkAAAAA:1c64Ra3TeQ5AKm7qVYRr5UGYyhK_wzEf1XL3ZQfJTCmXcxdk_uHhbYXmfOH-rfia97SussipfqU)." Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022.
