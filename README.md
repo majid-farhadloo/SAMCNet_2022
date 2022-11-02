@@ -13,8 +13,6 @@ We proposes a novel neural network architecture, namely SAMCNet, to identify N-w
 
 The classification experiments in our paper are done with the pytorch implementation.
 
-## License
-MIT License
 
 ## Acknowledgement
 The structure of this codebase is borrowed from [DGCNN] (https://github.com/WangYueFt/dgcnn)
